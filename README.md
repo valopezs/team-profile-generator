@@ -19,7 +19,7 @@ This is a Node.js command-line application that takes information about employee
 - Use inquirer from your command line to answer questions about your project.
 - Run `node index.js` to start application and input team members.
 
-View walk through video here -
+View walk through video here - [Sample Video Link](https://drive.google.com/file/d/1eGPLduSaZN21WUSKHvH5sPZMgN1on7SK/view?usp=sharing)
 
 https://user-images.githubusercontent.com/107379025/187591023-770a56d0-4309-4522-b21a-3eefa1e5bd5b.mp4
 
