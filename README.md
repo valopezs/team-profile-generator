@@ -1,2 +1,31 @@
 # team-profile-generator
-Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
+
+## Description 
+This is a Node.js command-line application that takes information about employees on a software engineering team and generates and HTML site displaying summaries of each person on the team. The profiles created of each team member include name, ID, email, and github username if they're an engineer or school if they're an intern.
+ 
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
+## Installation 
+- The user should clone the repository from GitHub and download Node. 
+- This application also requires a file system and inquirer module.
+- If testing is required, this application uses Jest.
+
+## Usage 
+- Use inquirer from your command line to answer questions about your project.
+- Run `node index.js` to start application and input team members.
+View walk through video here - [Screencastify](https://drive.google.com/file/d/1tWZNaLaSKDgV-UohblVVEdnwex9nPzDj/view)<br>
+<img src="./assets/image/samplepage.png">
+
+## Contributing 
+Contributors should read the installation section. 
+
+## Tests
+Run `npm run test` to run Jest for tests on constructors. 
+
+## Questions
+If you have any questions about this projects, please contact me directly at valeriabrilopez@gmail.com. You can view more of my projects at https://github.com/valopezs.
